@@ -1,5 +1,5 @@
 ========================
-django-twoscoops-project
+django-twoscoops-project //CHANGEDD DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 ========================
 
 A project template for Django 1.6 (with a tag for Django 1.5).
